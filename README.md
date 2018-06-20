@@ -1,2 +1,4 @@
 # hello-world
 My First Git Repository
+
+Well, hello there. My name is James. I'm a SQL developer, looking to expand my skillset. At heart, I'm a programmer. I'm good at SQL and DBA stuff, particularly where Microsft's SQL Server is concerned, but what I really want to do is program. Isn't that what a SQL Developer does? Well, sorta. SQL is a programming language; but it's specific to working with data in tables - a relational database. I want to write code in C, C++, C#, Visual Basic, Java, Javascript, Python, etc. I'm not really interested in interface stuff, though. I'm not real good at making things pretty. I like to make things work. I like enabling computers to make people's lives easier. I like solving complicated problems. I think that's why I'm interested in AI and machine learning. Someday, I hope to go back to school for my Master's and Phd, and study those things.
